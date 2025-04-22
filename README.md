@@ -1,5 +1,4 @@
 # minishell
-# Minishell
 
 ## Description
 Minishell is a simplified implementation of a shell, similar to bash, written in C. This project is focused on creating a functional command-line interface that can interpret and execute commands, handle environment variables, implement redirections and pipes, and include several built-in commands.
@@ -99,4 +98,4 @@ $ echo Hello World
 - [Writing Your Own Shell](https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf)
 
 ## License
-This project is part of the curriculum at [Your School Name].
+This project is part of the curriculum at 42 network.
