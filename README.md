@@ -89,7 +89,7 @@ $ echo Hello World
 ```
 
 ## Requirements
-- GCC compiler
+- CC compiler
 - GNU Make
 - GNU Readline library
 
